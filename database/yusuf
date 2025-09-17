@@ -1,0 +1,14 @@
+database/
+│
+├── create_database.sql         
+├── create_tables/               
+│   ├── create_parks_departments.sql
+│   ├── create_employee_demographics.sql
+│   ├── create_employee_salary.sql
+│
+├── insert_data/                
+│   ├── insert_parks_departments.sql
+│   ├── insert_employee_demographics.sql
+│   ├── insert_employee_salary.sql
+│
+└── README.md             
